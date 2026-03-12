@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו חנות בשמים וירטואלית ייחודית שמאפשרת לכם להתאים, לשנות ולהוסיף מרכיבים להזמנה. feel at home עם ניחוח שמתאים בדיוק לכם.
+
+### אודות
+https://example.com/about
+למדו על החזון שלנו ליצור חוויית בשמים אישית וייחודית. Feel מאמינה שכל ניחוח מספר סיפור - גלו את הסיפור שלנו ותתחילו לכתוב את שלכם.
+
+### התאמה אישית
+https://example.com/customization
+התאמה אישית מלאה של הבושם שלכם: בחרו מרכיבים, שנו עוצמות והוסיפו נגיעות אישיות. feeling low meaning? לא אצלנו - כאן תרגישו גבוה עם ניחוח משלכם.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על התאמת בשמים? רוצים ייעוץ אישי? צרו קשר עם הצוות שלנו ונעזור לכם ליצור את הבושם המושלם שיגרום לכם feel at home.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Feel
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Feel
+
+### Category
+https://example.com/category/:slug
+מוצרים - Feel
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
